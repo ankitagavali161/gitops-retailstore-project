@@ -1,6 +1,6 @@
 # AWS Containers Retail Sample - Orders Service
 
-<!-- GitOps Testing phase : Orders -->
+<!-- GitOps Testing phase: Orders -->
 
 <!-- Service Overview: Technology stack information -->
 | Language | Persistence |

@@ -1,6 +1,6 @@
 # AWS Containers Retail Sample - UI Service
 
-<!-- myGitOps Test: Testing deploy-simple.yml workflow -->
+<!-- GitOps Test: Testing deploy workflow -->
 
 <!-- Service Overview: Technology stack information -->
 | Language | Persistence |
